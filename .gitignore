@@ -38,3 +38,5 @@
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+Würde .idea/ löschen
+Würde src/InterfaceSegregation/ löschen
