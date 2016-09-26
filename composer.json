@@ -1,0 +1,15 @@
+{
+    "name": "solid/solid",
+    "authors": [
+        {
+            "name": "Christian Blab",
+            "email": "chris.blab@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\":"src"
+        }
+    }
+}
