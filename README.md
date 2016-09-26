@@ -1,2 +1,2 @@
 # solid
-For Liskov, you know.
+You know, for Liskov
